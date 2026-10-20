@@ -3,7 +3,8 @@
 - **Sinh viên:** Nguyễn Phú Thọ
 - **MSSV:** 1150080158
 - **Trường:** Trường Đại học Tài nguyên và Môi trường TP.HCM
-- **Phiên bản máy ảo:** Windows 11 25H2 x64 (Build 26200.9445) trên VMware Workstation Pro[cite: 1]
+- **Phiên bản máy ảo:** Windows 11 25H2 x64 (Build 26200.9445) trên VMware Workstation Pro
+- Link youtube: https://www.youtube.com/@akali6054
 
 ## 1. Nội dung đã thực hiện
 Trong bài Lab này, em đã thiết lập môi trường cô lập an toàn trên máy ảo và hoàn thành toàn bộ 7 tình huống giả lập các mối đe dọa an toàn thông tin, cụ thể[cite: 1]:

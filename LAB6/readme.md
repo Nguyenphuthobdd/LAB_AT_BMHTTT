@@ -4,6 +4,7 @@
 - **Mã số sinh viên:** 1150080158
 - **Lớp:** CNPM2
 - **Môn:** An toàn hệ thống thông tin
+- Link youtube: https://www.youtube.com/@akali6054
 
 ## 1. Nội dung đã thực hiện
 

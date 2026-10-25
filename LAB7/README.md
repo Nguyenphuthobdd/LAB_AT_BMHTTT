@@ -5,7 +5,6 @@
 - **Lớp:** CNPM2
 - **Môn:** ATBM_HTTT
 - **Báo cáo Word:** `Lab7_CNPM2_1150080158_NguyenPhuTho-2.docx 
-- **File hướng dẫn theo:** `HUONG_DAN_LAB7.md`
 
 ## 1. Nội dung đã thực hiện
 

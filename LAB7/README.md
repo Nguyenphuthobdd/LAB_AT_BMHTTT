@@ -4,7 +4,7 @@
 - **Mã số sinh viên:** 1150080158
 - **Lớp:** CNPM2
 - **Môn:** ATBM_HTTT
-- **Báo cáo Word:** `Lab7_CNPM2_1150080158_NguyenPhuTho-2.docx` (dàn bài A→I, ảnh chèn ở C, D, E, F, không chèn dồn vào I.1)
+- **Báo cáo Word:** `Lab7_CNPM2_1150080158_NguyenPhuTho-2.docx 
 - **File hướng dẫn theo:** `HUONG_DAN_LAB7.md`
 
 ## 1. Nội dung đã thực hiện

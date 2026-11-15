@@ -3,9 +3,9 @@
 * **Họ và tên: Nguyễn Phú Thọ
 * **Mã số sinh viên: 1150080158
 * **Môn học:** An toàn Hệ thống thông tin
-Link kênh youtube: https://www.youtube.com/@akali6054
+* Link kênh youtube: https://www.youtube.com/@akali6054
+* link video: https://youtu.be/M3XxEoLullQ?si=2oTCyVSmUVeTybFR
 
-link video: https://youtu.be/M3XxEoLullQ?si=2oTCyVSmUVeTybFR
 ---
 
 ## 1. Nội dung đã thực hiện

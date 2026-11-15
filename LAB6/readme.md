@@ -5,7 +5,7 @@
 - **Lớp:** CNPM2
 - **Môn:** An toàn hệ thống thông tin
 - Link youtube: https://www.youtube.com/@akali6054
-- https://youtu.be/iv0gqF-93Zs?si=wvKiUeV27F-eDxlm
+- Link video: https://youtu.be/iv0gqF-93Zs?si=wvKiUeV27F-eDxlm
 
 ## 1. Nội dung đã thực hiện
 

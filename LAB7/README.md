@@ -4,7 +4,8 @@
 - **Mã số sinh viên:** 1150080158
 - **Lớp:** CNPM2
 - **Môn:** ATBM_HTTT
-- **Báo cáo Word:** `Lab7_CNPM2_1150080158_NguyenPhuTho-2.docx 
+- Link youtube:
+- Link Video: https://youtu.be/Czk-J3dTfd0?si=t1QBe3mRamlWyGuk
 
 ## 1. Nội dung đã thực hiện
 

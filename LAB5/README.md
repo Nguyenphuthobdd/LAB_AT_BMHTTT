@@ -4,6 +4,7 @@
 **Mã số sinh viên:** 1150080158
 **Tên bài Lab:** Lab 5 - Thiết lập mô hình tường lửa pfSense
 - Link youtube: https://www.youtube.com/@akali6054
+- Link video : https://youtu.be/HF9vQhYaC0M?si=1S3rCOYlCOZ9tkS5
 
 ## Nội dung đã thực hiện
 - Khởi tạo và cấu hình máy ảo pfSense trên nền tảng VMware với 3 interface: WAN (Bridged/NAT), LAN (Host-only) và DMZ (LAN Segment).

@@ -4,7 +4,7 @@
 - **Mã số sinh viên:** 1150080158
 - **Lớp:** CNPM2
 - **Môn:** ATBM_HTTT
-- Link youtube:
+- Link youtube: https://www.youtube.com/@akali6054
 - Link Video: https://youtu.be/Czk-J3dTfd0?si=t1QBe3mRamlWyGuk
 
 ## 1. Nội dung đã thực hiện

@@ -4,6 +4,7 @@
 - **Mã số sinh viên:** 1150080158
 - **Tên bài Lab:** Lab 4 - Khảo sát và đánh giá bề mặt mạng bằng Nmap
 - Link youtube: https://www.youtube.com/@akali6054
+- link video: https://youtu.be/vLPibBlcrYs?si=fE9PT0D01jgGPxJe
 
 ## Nội dung đã thực hiện
 - Thiết lập môi trường mạng ảo riêng lập (Host-Only / VMnet1) trên phần mềm VMware giữa máy quét (Kali Linux) và máy mục tiêu (Metasploitable 2).

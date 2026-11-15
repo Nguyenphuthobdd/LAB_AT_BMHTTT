@@ -5,7 +5,7 @@
 - **Lớp:** CNPM2
 - **Môn:** An toàn bảo mật HTTT
 - Link youtube: https://www.youtube.com/@akali6054
-- Link Video 
+- Link Video: https://youtu.be/WpzsgV_KKnI
 
 
 

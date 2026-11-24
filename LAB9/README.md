@@ -1,10 +1,9 @@
-# Lab 9 — Remote DNS Cache Poisoning
+# Báo cáo thực hành Lab 9 — Remote DNS Cache Poisoning
 
 - **Họ và tên sinh viên:** Nguyễn Phú Thọ
 - **Mã số sinh viên:** 1150080158
 - **Lớp:** CNPM2
 - **Môn:** An toàn bảo mật HTTT
-- **Báo cáo Word:** chưa viết xong (tên file trong tài liệu ghi Lab10, em sẽ hỏi lại thầy trước khi nộp)
 - Link kênh youtube: https://www.youtube.com/@akali6054
 - Link video: https://youtu.be/bd0-m4a4Ga4
  ----------
